@@ -1,7 +1,7 @@
 # Retail Business Performance & Profitability Analysis
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_.png)
+![Retail Dashboard Preview](dashboard.png)
 
 ## 📌 Business Overview & Problem Statement
 Despite generating over **$2M in total sales**, the retail business experienced a surprisingly low net profit margin of **12.47%**. The objective of this project was to analyze transactional data, identify profit leaks, and evaluate the impact of discount strategies across product categories.
